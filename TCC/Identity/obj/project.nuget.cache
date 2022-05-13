@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sF4VNROt6j4P36g1dVA+2Dci5f2pK89XmpUiLaCWwio9s3Zbov9FLha6hh2yFbrYt2/JPKchp7Yi0moYSdQlOQ==",
+  "dgSpecHash": "kWFkcuU6vPdxwwOG/D/5o0fT3NkGJ0Ay8WFv5FzLYURd5aLtqpxF3xGHdJvbVVEZtE1usRNvdD9nwn7K/XOrlw==",
   "success": true,
-  "projectFilePath": "C:\\git\\tcc-mvc\\TCC\\Identity\\Identity.csproj",
+  "projectFilePath": "C:\\tcc\\tcc-mvc\\TCC\\Identity\\Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kemely.cardozo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.4\\microsoft.aspnetcore.cryptography.internal.3.1.4.nupkg.sha512",
     "C:\\Users\\kemely.cardozo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.4\\microsoft.aspnetcore.cryptography.keyderivation.3.1.4.nupkg.sha512",

@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\tcc-mvc\\TCC\\Identity\\Identity.csproj": {}
+    "C:\\tcc\\tcc-mvc\\TCC\\Identity\\Identity.csproj": {}
   },
   "projects": {
-    "C:\\git\\tcc-mvc\\TCC\\Identity\\Identity.csproj": {
+    "C:\\tcc\\tcc-mvc\\TCC\\Identity\\Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\tcc-mvc\\TCC\\Identity\\Identity.csproj",
+        "projectUniqueName": "C:\\tcc\\tcc-mvc\\TCC\\Identity\\Identity.csproj",
         "projectName": "Identity",
-        "projectPath": "C:\\git\\tcc-mvc\\TCC\\Identity\\Identity.csproj",
+        "projectPath": "C:\\tcc\\tcc-mvc\\TCC\\Identity\\Identity.csproj",
         "packagesPath": "C:\\Users\\kemely.cardozo\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\tcc-mvc\\TCC\\Identity\\obj\\",
+        "outputPath": "C:\\tcc\\tcc-mvc\\TCC\\Identity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\kemely.cardozo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,10 +27,11 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/EDPBR-TI/_packaging/EDPSmart.BE.Middleware/nuget/v3/index.json": {}
+          "https://pkgs.dev.azure.com/treetech/_packaging/EAM.Packages/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
@@ -95,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
